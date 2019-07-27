@@ -1,4 +1,7 @@
 - name: Clone a repo 
   hosts: localhost 
-  become
+  become: yes 
   tasks:
+    - name: Create a directory 
+      file:
+        name: 
