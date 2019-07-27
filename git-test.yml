@@ -4,4 +4,6 @@
   tasks:
     - name: Create a directory 
       file:
-        path: /tmpd
+        path: /tmp/ansible 
+        state: directory 
+        
