@@ -6,4 +6,6 @@
       file:
         path: /tmp/ansible 
         state: directory 
-        
+
+    - name: Clone repo 
+      
