@@ -1,2 +1,4 @@
 - name: Clone a repo 
-  
+  hosts: localhost 
+  tasks:
+    
