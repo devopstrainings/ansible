@@ -10,4 +10,4 @@
     - name: Clone repo 
       git:
         repo:  https://github.com/devopstrainings/ansible.git
-        dest: 
+        dest: /tmp/ansible 
