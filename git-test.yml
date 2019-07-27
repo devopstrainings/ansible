@@ -4,4 +4,4 @@
   tasks:
     - name: Create a directory 
       file:
-        name: 
+        path: /tmpd
