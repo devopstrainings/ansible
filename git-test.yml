@@ -8,4 +8,5 @@
         state: directory 
 
     - name: Clone repo 
-      
+      git:
+        
